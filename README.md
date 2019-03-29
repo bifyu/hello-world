@@ -1,2 +1,2 @@
 # hello-world
-hello world tutorial
+Sturgeon's Law applies.
